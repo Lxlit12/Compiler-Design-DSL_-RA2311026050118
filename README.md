@@ -137,8 +137,8 @@ This project successfully demonstrates the working of a simple compiler using Fl
 
 ## 👨‍💻 Author Details
 
-* **Name:** A.Pranesh
-* **Register Number:** RA2311026050035
+* **Name:** Lalit Aditya
+* **Register Number:** RA2311026050118
 
 ---
 
